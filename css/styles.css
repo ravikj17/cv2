@@ -1,0 +1,140 @@
+body
+{
+  background-color: #ecf8f8;
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1
+{
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+h2
+{
+  font-weight: normal;
+  color: #66BFBF;
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 10px;
+}
+h3
+{
+  color:#11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+p
+{
+  line-height: 2;
+}
+hr
+{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+a
+{
+  color: BLUE;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+}
+.top-container
+{
+  background-color: #caf0f8;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container
+{
+  margin: 100px 0;
+}
+.top-cloud
+{
+  position: absolute;
+  right: 300px;
+  top:40px;
+}
+.bottom-cloud
+{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.skill-row
+{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill1
+{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.skill2
+{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.Hrrank
+{
+  color:#11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+.intro
+{
+  width: 30%;
+  margin: auto;
+}
+.contact-message
+{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.btn {
+   border-top: 1px solid #96d1f8;
+   background: #006db5;
+   background: -webkit-gradient(linear, left top, left bottom, from(#4cb7ff), to(#006db5));
+   background: -webkit-linear-gradient(top, #4cb7ff, #006db5);
+   background: -moz-linear-gradient(top, #4cb7ff, #006db5);
+   background: -ms-linear-gradient(top, #4cb7ff, #006db5);
+   background: -o-linear-gradient(top, #4cb7ff, #006db5);
+   padding: 11px 22px;
+   -webkit-border-radius: 18px;
+   -moz-border-radius: 18px;
+   border-radius: 18px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: white;
+   font-size: 20px;
+   font-family: Georgia, serif;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+.btn:hover {
+   border-top-color: #2ca3f2;
+   background: #2ca3f2;
+   color: #ccc;
+   }
+.btn:active
+{
+   border-top-color: #1b435e;
+   background: #1b435e;
+  }
+
+.bottom-container
+{
+  background-color: #66BFBF;
+}
